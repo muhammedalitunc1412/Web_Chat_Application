@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\Simple Webchat\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Simple Webchat\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Simple Webchat\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Simple Webchat\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Simple Webchat\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Simple Webchat\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\ASUS\source\repos\Simple Webchat\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\ASUS\source\repos\Simple Webchat\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+C:\Users\ASUS\source\repos\Simple Webchat\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\ASUS\source\repos\Simple Webchat\DataAccess\bin\Debug\net5.0\Entities.dll
+C:\Users\ASUS\source\repos\Simple Webchat\DataAccess\bin\Debug\net5.0\Entities.pdb
+C:\Users\ASUS\source\repos\Simple Webchat\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\ASUS\source\repos\Simple Webchat\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\ASUS\source\repos\Simple Webchat\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\ASUS\source\repos\Simple Webchat\DataAccess\obj\Debug\net5.0\DataAccess.pdb
